@@ -1,4 +1,4 @@
-package main
+package abstractfactory
 
 type iShort interface {
 	setLogo(logo string)

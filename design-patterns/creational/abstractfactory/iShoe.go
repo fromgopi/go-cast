@@ -1,4 +1,4 @@
-package main
+package abstractfactory
 
 type iShoe interface {
 	setLogo(logo string)
